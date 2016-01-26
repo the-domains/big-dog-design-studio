@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Big Dog Design Studio]]></title>
+        <description><![CDATA[Big Dog Design Studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 17:29:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Big Dog Design Studio is a design consultation firm. We design, aid and assist in the process of creating built and manufactured works in the fields of Architecture, Industrial Design, Furniture Design, Lighting Design and Architectural Hardware Design. Our work is completed through the use of 2D & 3D visualization, construction documentation, and if required, construction supervision, to final product delivery.</p>]]></description>
+            <link>undefined089c7c36-d4e4-440a-842e-046911196180/index.html</link>
+            <guid isPermaLink="false">089c7c36-d4e4-440a-842e-046911196180</guid>
+            <pubDate>Tue, 26 Jan 2016 17:29:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

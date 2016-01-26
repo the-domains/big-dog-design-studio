@@ -1,0 +1,28 @@
+name: Big Dog Design Studio
+favicon: null
+layout_spectrum: 0.7895519260782748
+typography_spectrum: 0.6029033586382866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8293894354719669
+  lightness: 0.35977539559826255
+  saturation: 0.3400436060037464
+  rhythmicContrast: 0.6898702727630734
+purpose: []
